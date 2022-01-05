@@ -1,7 +1,7 @@
 {
 	"ip":"KOMSRVN.aternos.me",
-	"port": "25565",
-	"name": "afkbot1",
+	"port": "63321",
+	"name": "afkbot",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
