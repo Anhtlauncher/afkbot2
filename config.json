@@ -3,7 +3,7 @@
 	"port": "37396",
 	"name": "afkbot3",
 	"auto-night-skip":"false",
-	"login-enabled":"false",
-	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
-	"login-cmd":"/login (type_ur_pass_here)"
+	"login-enabled":"true",
+	"register-cmd":"/gamemode creative",
+	"login-cmd":"/gamemode creative"
 }
